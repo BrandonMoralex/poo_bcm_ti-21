@@ -13,7 +13,6 @@ print("{n1} + {n2} = {suma}".format(n1=numero1,n2=numero2,suma=numero1 + numero2
 print("{n2} + {n2} = {n2}".format(n1=numero1,n2=numero2,suma=numero1 + numero2)) #si sirve pero se debe agregar el valor de n2 5+5=5
 
 print("{n4} + {n4} = {n4}".format(n1=numero1,n2=numero2,suma=numero1 + numero2))
+#No existe porque no hay valor de n4
 
-print("{numero1} + {numero2} = {suma}".format(numero1=numero1, numero2=numero2, suma=numero1 + numero2)) 
-print("{numero1} + {numero2} = {}".format(numero1,numero2,numero1 + numero2)) #no sirve porque no declaramos el valor
-
+print("{numero1} + {numero2} = {}".format(numero1,numero2,numero1 + numero2)) #no sirve porque no declaramos el valor 
