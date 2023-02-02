@@ -2,7 +2,7 @@
 Programa7
 Nombre: Brandon CM
 Fecha: 31/01/2023
-Descripcion: Comentarios multilinea, Comentarios de una linea, Concatenacion de cadenas y cadena de caracteres
+Descripcion: Comentarios multilinea, Comentarios de una linea, Concatenacion de cadenas y cadena de caracteres y acalcular areas y perimetros.
 """
 print ("Area y perimetro de un circulo") #imprime el area la cual se saca asi El área de un círculo es pi multiplicado por el radio al cuadrado (A = π r²). 
 diametro= float(input("ingrese el diametro de tu circulo:")) #Meta el dato del diametro
@@ -13,9 +13,7 @@ print("El área del circulo de {} su radio es {}".format(diametro,area))# Ingres
 print("El perímetro de un circulo {} su radio es {}".format(diametro,perimetro))#ingrese el dato del perimetro
 
 
-
 print("") #Este dato me lo dieron mis amigos y es para dar un espacio
-
 
 print ("Area y perimetro de un cuadrado")#imprime lo que haremos
 lado= float(input("ingrese los lados del cuadrado:")) #da la orden para hacerlo
