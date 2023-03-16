@@ -15,4 +15,4 @@ print("{n2} + {n2} = {n2}".format(n1=numero1,n2=numero2,suma=numero1 + numero2))
 print("{n4} + {n4} = {n4}".format(n1=numero1,n2=numero2,suma=numero1 + numero2))
 #No existe porque no hay valor de n4
 
-print("{numero1} + {numero2} = {}".format(numero1,numero2,numero1 + numero2)) #no sirve porque no declaramos el valor 
+print("{numero1} + {numero2} = {}".format(numero1,numero2,numero1 + numero2)) #no sirve porque no declaramos el valor  

@@ -14,4 +14,5 @@
 |8.|programa7.py|Comentarios multilinea, Comentarios de una linea, Concatenacion de cadenas y cadena de caracteres y acalcular areas y perimetros.|
 |9.|programa8.py|codigos,if,else,eif|
 |10.|programa9.py|codigo|
-|10.|programa10.py|codigos y formas.|
+|11.|programa10.py|codigos y formas.|
+|12.|programa11.py|codigos y pruevas de los mismos.|

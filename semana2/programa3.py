@@ -6,7 +6,7 @@ Descripcion: Comentarios multilinea, Comentarios de una linea, Concatenacion de 
 """
 numero1=10
 numero2=5
-print(numero1 * numero2)
+print(numero1 * numero2) #imprime el valor de la multiplicación 
 print("{} + {} es = {}".format(numero1,numero2,numero1 + numero2))
-print("{} * {} es = {}".format(numero1,numero2,numero1 * numero2))
-print("El resultado de dividir {} / {} es = {}".format(numero1,numero2,numero1 / numero2))
+print("{} * {} es = {}".format(numero1,numero2,numero1 * numero2)) #imprime la multiplicación 
+print("El resultado de dividir {} / {} es = {}".format(numero1,numero2,numero1 / numero2)) #imprime la división 

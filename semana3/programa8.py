@@ -5,7 +5,7 @@ Fecha: 2/02/2023
 Descripcion: codigos,if,else,eif
 """
 
-{if condicion:
+{if condicion: #condiciones
     codigo}
 
 {if condicion:
